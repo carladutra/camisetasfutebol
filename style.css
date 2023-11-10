@@ -1,7 +1,18 @@
 body{
-    background-color:rgb(105, 198, 77);
+    background-color:rgb(50, 61, 46);
+    color: white;
+    margin: 100px;
 }
 
 img{
     width: 100%;
 }
+
+h1{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
+
